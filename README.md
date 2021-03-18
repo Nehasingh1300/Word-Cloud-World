@@ -7,4 +7,8 @@
 ## This <br>
 ![](geeta.png)
 ## or this!<br>
-![](geeta1.png)
+![](GeetaaBW.png)
+
+:star: Star me on GitHub — it helps!<br><br>
+[![made-with-Markdown](https://img.shields.io/badge/Made%20with-Markdown-yellow.svg)](https://github.com/Nehasingh1300/Word-Cloud-World)
+[![saythanks](https://img.shields.io/badge/say-thanks-ff69b4.svg)](https://github.com/Nehasingh1300/Word-Cloud-World)
