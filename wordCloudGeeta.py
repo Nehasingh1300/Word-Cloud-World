@@ -10,7 +10,7 @@ stopwords = ["Copyright", "one", "Int'l","Email", "Kåñëa","Lord","TRANSLATION
 
 #Appearance-related
 custom_mask = np.array(Image.open('book.png'))
-wc = WordCloud(background_color = 'yellow',
+wc = WordCloud(background_color = 'white',
                stopwords = stopwords,
                max_words=1000,
                min_font_size=5,
